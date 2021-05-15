@@ -1,0 +1,4 @@
+# ninja log v5
+1	3196	1619030553969848996	/home/mitch/DBCN/3D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/3D/dcn/src/cpu/deform_cpu.o	c296db2537288c22
+1	9643	1619030560413866320	/home/mitch/DBCN/3D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/3D/dcn/src/cuda/deform_conv_cuda.o	1a230c8393c5ec0d
+0	17358	1619030568125888709	/home/mitch/DBCN/3D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/3D/dcn/src/vision.o	ba6a4d23542a1163

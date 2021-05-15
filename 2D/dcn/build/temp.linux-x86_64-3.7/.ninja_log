@@ -1,0 +1,15 @@
+# ninja log v5
+2	3044	1619031940962035052	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/cpu/dcn_v2_im2col_cpu.o	8fa54bc4d49fb93f
+1	3703	1619031941622036923	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/cpu/dcn_v2_cpu.o	88a01bfddeb24a85
+1	3863	1619031941782037376	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/cpu/dcn_v2_psroi_pooling_cpu.o	b487812d26b3fe0
+2	9172	1619031947086052411	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/cuda/dcn_v2_im2col_cuda.o	113672abcd4c2913
+2	9437	1619031947350053159	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/cuda/dcn_v2_cuda.o	16758d903c948f41
+3	9645	1619031947558053749	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/cuda/dcn_v2_psroi_pooling_cuda.o	68b6cc3a99c40eb9
+0	17903	1619031955818077158	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/vision.o	de2f88e3e7554185
+4	3047	1619031959406087325	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/cpu/dcn_v2_im2col_cpu.o	e0389a3c958095e7
+3	3696	1619031960054089161	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/cpu/dcn_v2_cpu.o	ef40cce34e521797
+3	3882	1619031960242089694	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/cpu/dcn_v2_psroi_pooling_cpu.o	2625849930489c74
+4	9206	1619031965558104754	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/cuda/dcn_v2_im2col_cuda.o	e42b6f00651aa6e
+4	9435	1619031965786105401	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/cuda/dcn_v2_cuda.o	1f240cb505595504
+5	9630	1619031965986105966	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/cuda/dcn_v2_psroi_pooling_cuda.o	59aeb66c4c4bfb0b
+3	17902	1619031974254129386	/home/mitch/DBCN/2D/dcn/build/temp.linux-x86_64-3.7/home/mitch/DBCN/2D/dcn/DCN/src/vision.o	4ea7979661ef3b4c
